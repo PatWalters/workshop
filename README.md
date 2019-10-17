@@ -6,7 +6,7 @@ A set of tutorials that I put together for a series of wokrshops at the Universi
 4. clustering/taylor_butina.ipynb - Taylor-Butina clustering
 5. sec_ms/SEC_MS.ipynb - Designing a screeing library for Size Exclusion Chromatography - Mass Spectrometry (SEC-MS)
 6. predictive_models/predictive_model_prep.ipynb - preparing data to generate a predictive model
-7. predictive_modelsrunning_a_predictive_model.ipynb - practical application of a predictive model
+7. predictive_models/running_a_predictive_model.ipynb - practical application of a predictive model
 
 
 All of these notebooks can be run on Binder by using the url below. 
