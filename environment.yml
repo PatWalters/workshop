@@ -62,13 +62,17 @@ dependencies:
     - attrs==19.3.0
     - backcall==0.1.0
     - bleach==3.1.0
+    - chardet==3.0.4
+    - chembl-webresource-client==0.10.0
     - confuse==1.0.0
     - cycler==0.10.0
     - decorator==4.4.0
     - defusedxml==0.6.0
+    - easydict==1.9
     - entrypoints==0.3
     - environment-kernels==1.1.1
     - htmlmin==0.1.12
+    - idna==2.8
     - importlib-metadata==0.23
     - ipykernel==5.1.2
     - ipython==7.8.0
@@ -118,6 +122,8 @@ dependencies:
     - pyyaml==5.1.2
     - pyzmq==18.1.0
     - qtconsole==4.5.5
+    - requests==2.22.0
+    - requests-cache==0.5.2
     - scikit-learn==0.21.3
     - scipy==1.3.1
     - seaborn==0.9.0
@@ -128,6 +134,7 @@ dependencies:
     - tornado==6.0.3
     - traitlets==4.3.3
     - typed-ast==1.4.0
+    - urllib3==1.25.6
     - wcwidth==0.1.7
     - webencodings==0.5.1
     - widgetsnbextension==3.5.1
