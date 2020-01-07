@@ -64,10 +64,12 @@ dependencies:
     - bleach==3.1.0
     - chardet==3.0.4
     - chembl-webresource-client==0.10.0
+    - colour==0.1.5
     - confuse==1.0.0
     - cycler==0.10.0
     - decorator==4.4.0
     - defusedxml==0.6.0
+    - dtreeviz==0.8.1
     - easydict==1.9
     - entrypoints==0.3
     - environment-kernels==1.1.1
@@ -102,6 +104,7 @@ dependencies:
     - notebook==6.0.1
     - numba==0.46.0
     - packaging==19.2
+    - pandas-flavor==0.1.2
     - pandas-profiling==2.3.0
     - pandocfilters==1.4.2
     - parso==0.5.1
@@ -114,11 +117,13 @@ dependencies:
     - ptyprocess==0.6.0
     - py==1.8.0
     - pygments==2.4.2
+    - pyjanitor==0.19.0
     - pylint==2.4.2
     - pyparsing==2.4.2
     - pyrsistent==0.15.4
     - pytest==5.2.1
     - pytest-pylint==0.14.1
+    - python-graphviz==0.13.2
     - pyyaml==5.1.2
     - pyzmq==18.1.0
     - qtconsole==4.5.5
@@ -139,6 +144,7 @@ dependencies:
     - webencodings==0.5.1
     - widgetsnbextension==3.5.1
     - wrapt==1.11.2
+    - xlrd==1.2.0
     - zipp==0.6.0
 prefix: /home/ubuntu/anaconda3/envs/workshop
 
